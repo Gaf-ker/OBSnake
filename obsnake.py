@@ -1,4 +1,4 @@
-# More information on OBS scripting
+# More information on OBS scripting https://obsproject.com/docs/
 import obspython as obs
 import os
 
