@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 1. Open Scripts menu in OBS: Instruments -> Scripts
 2. Set the path to the python folder in python parameters tab
-3. Go back to Scripts tab and add OBSnake using '+' button
+3. Go back to Scripts tab and add OBSnake file(obsnake.py) using '+' button
 4. set script parameters:
 
  <b>Stream link</b>: link to the streaming platform's channel, e.g. https://wasd.tv/gafker
