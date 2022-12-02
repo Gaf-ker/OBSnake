@@ -6,7 +6,7 @@ ________________________________________________________________________________
 Requirements:
 
 1. OBS
-2. Python 6.X (obs won't load scripts with any other version of python)
+2. Python 3.6.X (obs won't load scripts with any other version of python)
 3. PIP package installer
 4. Requests python library (python -m pip install requests)
 5. Discord channel webhook
